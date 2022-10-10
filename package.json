@@ -1,0 +1,20 @@
+{
+  "name": "textmoviemaker",
+  "version": "1.0.0",
+  "description": "For creating animation you need instantiate new `Movie` object with require parameters: <br />\r `movieID`: it is id of HTML-element that contains your animation; <br />\r `frameDuration`: it is duration of every frame (wow); <br />\r `framesList`: it is list of instatiations of `Frame` object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReporterP/TextMovieMaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReporterP/TextMovieMaker/issues"
+  },
+  "homepage": "https://github.com/ReporterP/TextMovieMaker#readme"
+}

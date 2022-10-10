@@ -15,6 +15,9 @@ Parameters: <br />
 # EXAMPLES
 You can check demo-files in project directory. Or look at this example:
 ```html
+
+<script src="./node_modules/textmoviemaker/textmovie.js"></script>
+
 <script>
     function Play() {
         let m = new Movie(

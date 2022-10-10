@@ -1,5 +1,6 @@
 {
   "name": "textmoviemaker",
+  "type": "module",
   "version": "1.0.0",
   "description": "For creating animation you need instantiate new `Movie` object with require parameters: <br />\r `movieID`: it is id of HTML-element that contains your animation; <br />\r `frameDuration`: it is duration of every frame (wow); <br />\r `framesList`: it is list of instatiations of `Frame` object.",
   "main": "index.js",

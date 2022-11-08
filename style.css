@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#movie {
+    font-size: 50px;
+}
+
+.end {
+    transition: 0.3s;
+    
+    width: 100vw;
+    height: 100vh;
+    
+    background-color: darkslategray;
+    color: white;
+    
+    font-size: 60px !important;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.end a,
+.end a:visited {
+    color: aliceblue;
+}

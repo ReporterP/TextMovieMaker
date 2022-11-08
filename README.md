@@ -16,6 +16,7 @@ Parameters: <br />
 You can check demo-files in project directory. Or look at this example:
 ```html
 
+<link rel="stylesheet" href="./node_modules/textmoviemaker/style.css">
 <script src="./node_modules/textmoviemaker/textmovie.js"></script>
 
 <script>
